@@ -1,7 +1,5 @@
 
-*/Analyse folder/*
-*/simuFolder/*
-**/Analyse folder
-**\Analyse folder
-Analyse folder
-simuFolder
+/Analyse folder
+/simuFolder
+/simuFolder/
+simuFolder/
