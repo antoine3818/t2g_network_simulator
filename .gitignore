@@ -1,11 +1,3 @@
-\Simulator\simuFolder
-\Simulator\simuFolder\
-\Simulator\simuFolder/
-*simuFolder/
-*simuFolder\
-*\simuFolder/
-*/simuFolder/
-*\simuFolder\
-**/simuFolder
-**\simuFolder
-*\Analyse folder
+
+*/Analyse folder/*
+*/simuFolder/*
